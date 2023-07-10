@@ -6,3 +6,7 @@ Estos retos, consisten en replicar un diseño con html,css y en algunos casos js
 
 Resultado:
 
+https://angelvelascoh.github.io/Front-end-challenge/
+
+Nota: Estos retos, no están realizados con diseño responsive.
+
